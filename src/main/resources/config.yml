@@ -205,7 +205,7 @@ before-start:
 
     teamSelector:
         # True to give to the players a team selector, opening the teams inventory GUI (same as /teams).
-        enabled: true
+        enabled: false
 
         # The item to use as the team selector. Right-clicking it will open the GUI.
         item: NETHER_STAR
